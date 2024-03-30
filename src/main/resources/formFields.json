@@ -1,0 +1,32 @@
+[
+  {
+    "name": "username",
+    "label": "Username",
+    "type": "text",
+    "placeholder": "Enter your username",
+    "required": true,
+    "minLength": 5,
+    "maxLength": null,
+    "errorMessage": "Username must be at least 5 characters long."
+  },
+  {
+    "name": "email",
+    "label": "Email",
+    "type": "email",
+    "placeholder": "Enter your email",
+    "required": true,
+    "minLength": null,
+    "maxLength": null,
+    "errorMessage": "Please enter a valid email address."
+  },
+  {
+    "name": "password",
+    "label": "Password",
+    "type": "password",
+    "placeholder": "Enter your password",
+    "required": true,
+    "minLength": 8,
+    "maxLength": null,
+    "errorMessage": "Password must be at least 8 characters long."
+  }
+]
