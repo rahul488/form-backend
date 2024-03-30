@@ -6,7 +6,7 @@
     "placeholder": "Enter your username",
     "required": true,
     "minLength": 5,
-    "maxLength": null,
+    "maxLength": 8,
     "errorMessage": "Username must be at least 5 characters long."
   },
   {
@@ -26,7 +26,7 @@
     "placeholder": "Enter your password",
     "required": true,
     "minLength": 8,
-    "maxLength": null,
+    "maxLength": 12,
     "errorMessage": "Password must be at least 8 characters long."
   }
 ]
